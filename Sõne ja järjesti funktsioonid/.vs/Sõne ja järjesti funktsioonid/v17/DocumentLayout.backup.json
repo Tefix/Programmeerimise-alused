@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opilane\\Documents\\GitHub\\Programmeerimise-alused\\S\u00F5ne ja j\u00E4rjesti funktsioonid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{039A8C37-FBED-4A9D-99D2-F13582F4DADF}|S\u00F5ne ja j\u00E4rjesti funktsioonid.pyproj|C:\\Users\\opilane\\Documents\\GitHub\\Programmeerimise-alused\\S\u00F5ne ja j\u00E4rjesti funktsioonid\\S\u00F5ne_ja_j\u00E4rjesti_funktsioonid.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{039A8C37-FBED-4A9D-99D2-F13582F4DADF}|S\u00F5ne ja j\u00E4rjesti funktsioonid.pyproj|solutionrelative:S\u00F5ne_ja_j\u00E4rjesti_funktsioonid.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "S\u00F5ne_ja_j\u00E4rjesti_funktsioonid.py",
+              "DocumentMoniker": "C:\\Users\\opilane\\Documents\\GitHub\\Programmeerimise-alused\\S\u00F5ne ja j\u00E4rjesti funktsioonid\\S\u00F5ne_ja_j\u00E4rjesti_funktsioonid.py",
+              "RelativeDocumentMoniker": "S\u00F5ne_ja_j\u00E4rjesti_funktsioonid.py",
+              "ToolTip": "C:\\Users\\opilane\\Documents\\GitHub\\Programmeerimise-alused\\S\u00F5ne ja j\u00E4rjesti funktsioonid\\S\u00F5ne_ja_j\u00E4rjesti_funktsioonid.py*",
+              "RelativeToolTip": "S\u00F5ne_ja_j\u00E4rjesti_funktsioonid.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-10T07:37:33.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
