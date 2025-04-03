@@ -3,12 +3,13 @@ import random
 tase1 = ['+', '-']
 tase2 = ['*', '/']
 tase3 = ['**']
+tase4 = ['+', '-', '*', '/', '**']
 
 try:
-    level = int(input("Выбери уровень сложности: 1, 2 или 3 => "))
+    level = int(input("Выбери уровень сложности: 1, 2,3 или 4 => "))
 except ValueError:
-    print("Пожалуйста выберите уровень 1,2 или 3!")
-    exit()
+    print("Пожалуйста выберите уровень 1, 2,3 или 4!")
+    
 
 primeri = 5
 correct_primeri = 0
@@ -23,13 +24,15 @@ for i in range(primeri):
         operation = random.choice(tase2)
     elif level == 3:
         operation = random.choice(tase3)
+    elif level == 4:
+        operation = random.choice(tase4)
     else:
         print("Неверный уровень сложности.")
 
     if operation == '+':
         correct_answer = number1 + number2
         print(f"{number1} + {number2} = ")
-    elif operation == '-':
+    elif operation == '-': 
         correct_answer = number1 - number2
         print(f"{number1} - {number2} = ")
     elif operation == '*':
